@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "222719788706",
+    "firebase_url": "https://closeshare-8d9bd.firebaseio.com",
+    "project_id": "closeshare-8d9bd",
+    "storage_bucket": "closeshare-8d9bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222719788706:android:7364dcc6b622cfef8c79fb",
+        "android_client_info": {
+          "package_name": "com.stoicovici.closeshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222719788706-hol0vno6tuimju0kk6lrt2cfuuj7d7tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stoicovici.closeshare",
+            "certificate_hash": "f5f117b539971cae8567c512bb78edb2adf49c0c"
+          }
+        },
+        {
+          "client_id": "222719788706-m8t5uheda2261m06fgu2buol8471rn29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHMf7Xc2YMo0CovZETdLMbQTyCfrG1DlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222719788706-m8t5uheda2261m06fgu2buol8471rn29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
